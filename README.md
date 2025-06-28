@@ -52,7 +52,7 @@ Java programming lab exercises and projects completed during S3 CSE B.Tech curri
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/java-programming-lab.git
+   git clone https://github.com/AthulSabu2002/S3_JAVA_LAB.git
    cd java-programming-lab
    ```
 
